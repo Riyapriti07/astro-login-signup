@@ -13,7 +13,6 @@ A responsive Login and Signup interface built using HTML, CSS, and Bootstrap 5.
 - `index.html` — Login Page
 - `signup.html` — Signup Page
 
-## 🖼 Image Credits
-Make sure `image/img.jpg` exists. Replace with your own image as needed.
+
 
 
